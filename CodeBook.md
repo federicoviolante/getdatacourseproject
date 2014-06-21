@@ -4,37 +4,35 @@ CodeBook
 subject 
 -------
 The subject wearing the smartphone
+
 Values: integer [1..30]
 
 activity
 -------
 The recorded activity
+
 One of  ["Walk", "UpStairs", "DownStairs", "Sit", "Stand", "Lay"]
 
 Body XYZ Acceleration (Mean)
 ----------------------------
-
 * tBodyAccMeanX
 * tBodyAccMeanY
 * tBodyAccMeanZ
 
 Body XYZ Acceleration (Standard Deviation)
 ------------------------------------------
-
 * tBodyAccStDevX
 * tBodyAccStDevY
 * tBodyAccStDevZ
 
 Gravity XYZ Acceleration (Mean)
 -------------------------------
-
 * tGravityAccMeanX
 * tGravityAccMeanY
 * tGravityAccMeanZ
 
 Gravity XYZ Acceleration (Standard Deviation)
 ---------------------------------------------
-
 * tGravityAccStDevX
 * tGravityAccStDevY
 * tGravityAccStDevZ
