@@ -130,35 +130,26 @@ FFT Transform of corresponding Time Domain signals
 * fBodyAccMeanX
 * fBodyAccMeanY
 * fBodyAccMeanZ
-
 * fBodyAccStDevX
 * fBodyAccStDevY
 * fBodyAccStDevZ
-
 * fBodyAccJerkMeanX
 * fBodyAccJerkMeanY
 * fBodyAccJerkMeanZ
-
 * fBodyAccJerkStDevX
 * fBodyAccJerkStDevY
 * fBodyAccJerkStDevZ
-
 * fBodyGyroMeanX
 * fBodyGyroMeanY
 * fBodyGyroMeanZ
-
 * fBodyGyroStDevX
 * fBodyGyroStDevY
 * fBodyGyroStDevZ
-
 * fBodyAccMagMean
 * fBodyAccMagStDev
-
 * fBodyBodyAccJerkMagMean
 * fBodyBodyAccJerkMagStDev
-
 * fBodyBodyGyroMagMean
 * fBodyBodyGyroMagStDev
-
 * fBodyBodyGyroJerkMagMean
 * fBodyBodyGyroJerkMagStDev
