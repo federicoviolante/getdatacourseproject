@@ -1,5 +1,5 @@
-getdatacourseproject
-====================
+getdata course project assignment
+=================================
 
 The script works this way:
 --------------------------
