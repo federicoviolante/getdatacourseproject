@@ -11,21 +11,33 @@ activity
 The recorded activity
 One of  ["Walk", "UpStairs", "DownStairs", "Sit", "Stand", "Lay"]
 
-tBodyAccMeanX
-tBodyAccMeanY
-tBodyAccMeanZ
+Body XYZ Acceleration (Mean)
+----------------------------
 
-tBodyAccStDevX
-tBodyAccStDevY
-tBodyAccStDevZ
+* tBodyAccMeanX
+* tBodyAccMeanY
+* tBodyAccMeanZ
 
-tGravityAccMeanX
-tGravityAccMeanY
-tGravityAccMeanZ
+Body XYZ Acceleration (Standard Deviation)
+------------------------------------------
 
-tGravityAccStDevX
-tGravityAccStDevY
-tGravityAccStDevZ
+* tBodyAccStDevX
+* tBodyAccStDevY
+* tBodyAccStDevZ
+
+Gravity XYZ Acceleration (Mean)
+-------------------------------
+
+* tGravityAccMeanX
+* tGravityAccMeanY
+* tGravityAccMeanZ
+
+Gravity XYZ Acceleration (Standard Deviation)
+---------------------------------------------
+
+* tGravityAccStDevX
+* tGravityAccStDevY
+* tGravityAccStDevZ
 
 tBodyAccJerkMeanX
 tBodyAccJerkMeanY
